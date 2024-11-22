@@ -1,0 +1,21 @@
+{
+    "student":[
+        {
+            "id":1,
+            "name":"" ,
+            "email":"" ,
+            "phone":"" ,
+            "college":"" ,
+            "passout":"" ,
+            "branch":"" ,
+            "achievement":"",
+            "goals":"",
+            "interest":"",
+            "goodAt":"",
+            "photo": null
+        },
+        {
+
+        }
+    ]
+}
